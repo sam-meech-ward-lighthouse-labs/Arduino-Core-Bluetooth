@@ -1,7 +1,40 @@
 # Arduino iOS
 
+## Things
+
+* fitbit detects heart rate data
+* alarm system for your house
+* parking lot gate. Any door that opens with a fob.
+* car 2 go. Control a car's locks from you phone.
+* control an entire tesla.
+* philips hue lights.
+* internet cofffee machine
+
+## Sensors and stuff
+
+* Temperature
+* humidity
+* heart rate
+* carbon dioxide
+* soil moisture
+* rain sensor
+* touch sensor
+* sounds
+* sense anything
+
+sensors are cheap
+
+* lights
+* lazer
+* thermostat
+* motors
+
 
 ---
+
+* central is the high powered smart device (iPhone)
+* peripheral is the low powered sensor (fitbit)
+
 
 ## Core Bluetooth
 
